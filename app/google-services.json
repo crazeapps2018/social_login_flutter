@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123779129390",
+    "project_id": "sociallogin-eff14",
+    "storage_bucket": "sociallogin-eff14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123779129390:android:079e539612fd94820f3fbf",
+        "android_client_info": {
+          "package_name": "com.techd.sociallogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlbPOoR6bnD1FEuTfYME_WbT6SVVnSiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
